@@ -1,6 +1,6 @@
 var peso;
 var altura;
-var imc;
+var IMC;
 var resultado;
 
 //1 recebendo o event
